@@ -152,7 +152,8 @@ footer {
 }
 
 li.copyright {
-	text-align: right;
+	float: right;
+	margin-right: 10px;
 
 }
 
