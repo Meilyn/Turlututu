@@ -1,8 +1,9 @@
 body {
 	font-family: 'Nanum Gothic', sans-serif;
 	background-color: #1e93cc;
-	margin: 0;
-	padding: 0;
+	margin: auto;
+	padding: auto;
+	overflow-x: hidden;
 }
 nav {
 	background-color: black;
